@@ -1,0 +1,160 @@
+#headerMyInfo{
+    background-color: #313C4E;
+    height: 250px;
+    margin-top: 5px;
+    
+}
+
+li{
+    list-style: square;
+}
+
+ h1{
+    color: white
+}
+
+h2{
+    color: #313C4E;
+}
+
+h4{
+    padding: 4px;
+}
+
+#headerMyInfo h2{
+    color: #3B6F79
+}
+
+#headerMyInfo p{
+    color: white;
+}
+
+#mypic
+{
+   background-color: rgb(255, 255, 255);
+   width: 130px;
+
+    
+}
+#mypic img{
+    
+    background-color: white;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #313C4E;
+    margin-left: -30px;
+  
+    
+}
+
+
+#locations{
+    margin-top: 10px;
+}
+
+#row2{
+    margin-top: 10px;
+    margin-right:2px;
+}
+
+
+
+#skills{
+    background-color:#EBEBEB;
+    height: 600px;
+    
+  
+}
+
+   .jv1{
+    list-style: none;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    margin-bottom: 5px;
+    border: 50px;
+    width: 80%;
+    background-color: #313C4E;
+
+}   
+
+.jq1{
+    list-style: none;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    width: 75%;
+    margin-bottom: 5px;
+    background-color: #3B6F79
+}
+
+.msql{
+    list-style: none;
+    text-align: center;
+    color: white;
+    margin-bottom: 5px;
+    padding: 5px;
+    width: 60%;
+    background-color: #355157
+}
+
+.listyle{
+    list-style: none;
+    color: white;
+    padding: 5px;
+    margin: 2px;
+    text-align: center;
+    display: inline;
+
+    background-color: #989DA6
+}
+
+#limodify{
+    list-style: none;
+    color: white;
+    padding: 2px;
+    margin-bottom: 5px;
+    text-align: center;
+    margin-right: 80px;
+    height: 1px;
+  
+    width: 100%;
+    background-color: rgba(63, 63, 63, 0.424)
+}
+
+
+#diamond{
+    margin-left: 70px;
+    margin-top: -30px;
+    z-index: 9999;
+  
+}
+
+
+#skills{
+     margin-left: 10px;
+}
+
+.animation {
+    list-style: none;
+    text-align: center;
+    color: white;
+    display: inline;
+    padding: 5px;
+    margin-bottom: 5px;
+    border: 50px;
+    width: 100%;
+    background-color: #313C4E;
+    transform: scale(2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.red{
+    background-color: red;
+}
+
+.footer{
+    background: #152F4F;
+    color:white;
+}
+    
